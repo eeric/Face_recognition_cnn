@@ -1,0 +1,2 @@
+1.Arcface: Additive angular margin loss for deep face recognition
+2.Partial FC: Training 10 Million Identities on a Single Machine
