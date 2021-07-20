@@ -39,16 +39,18 @@ The first three files are the training dataset while the last three files are ve
 
 - The dataset will look like:
 ```Shell
-    faces_glintasia/
+    ms1m-retinaface-t1/
        train.idx
        train.rec
        property
+       train.lst
        lfw.bin
        cfp_fp.bin
        agedb_30.bin
 ```
 - train.idx and train.rec will be used to prepare images from this format
 - property contains a single line with **(no_of_classes,w,h)**
+- train.lst is list of image name, format "1\tpath\tidx_class"
 - The last three files are binary verifcation files which the model will use for calculating accuracy on the fly.
 - The given script can be used for converting rec files into images.
 ```
