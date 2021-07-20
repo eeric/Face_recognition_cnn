@@ -109,6 +109,10 @@ for i in range(3000):
 >
 ### list of images to .lst:
 :bulb: dir2lst: https://github.com/eeric/insightface/blob/master/src/data/dir2lst_ytf.py </br>
+>
+e.g., 
+>
+1	/raid5data/dplearn/ms1m-retinaface-arcface/images/m.0107_f/109-FaceId-0.jpg	0
 
 ## Dataset Preprocessing:
 - All face images are aligned by [MTCNN](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html) and cropped to 112x112:
