@@ -108,7 +108,7 @@ for i in range(3000):
 :bulb:Useful https://github.com/deepinsight/insightface/issues/214#issuecomment-419812835
 >
 ### list of images to .lst:
-:bulb:Useful https://github.com/eeric/insightface/blob/master/src/data/dir2lst_ytf.py </br>
+:bulb: dir2lst: https://github.com/eeric/insightface/blob/master/src/data/dir2lst_ytf.py </br>
 
 ## Dataset Preprocessing:
 - All face images are aligned by [MTCNN](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html) and cropped to 112x112:
