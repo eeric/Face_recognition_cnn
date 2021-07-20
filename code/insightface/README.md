@@ -101,11 +101,15 @@ for i in range(3000):
 - If you have your custom dataset in the required format
 - The above task can be accomplished by following the given links:
 >
-:bulb: Insight Face face2rec.py:  https://github.com/deepinsight/insightface/blob/master/src/data/face2rec2.py </br>
+:bulb: Insight Face face2rec.py:  https://github.com/eeric/insightface/blob/master/src/data/face2rec2.py </br>
 > 
 :bulb: img2rec: https://gluon-cv.mxnet.io/build/examples_datasets/recordio.html#sphx-glr-download-build-examples-datasets-recordio-py </br>
 > 
 :bulb:Useful https://github.com/deepinsight/insightface/issues/214#issuecomment-419812835
+>
+### list of images to .lst:
+:bulb:Useful https://github.com/eeric/insightface/blob/master/src/data/dir2lst_ytf.py </br>
+
 ## Dataset Preprocessing:
 - All face images are aligned by [MTCNN](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html) and cropped to 112x112:
 - Any public available *MTCNN* can be used to align the faces, and the performance should not change. We will improve the face normalisation step by full pose alignment methods recently.
