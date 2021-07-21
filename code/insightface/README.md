@@ -238,3 +238,5 @@ You can use `$INSIGHTFACE/src/eval/verification.py` to test all the pre-trained 
 > :bulb: img2rec: https://gluon-cv.mxnet.io/build/examples_datasets/recordio.html#sphx-glr-download-build-examples-datasets-recordio-py </br>
 > 
 > :bulb: Complete Summary : https://github.com/deepinsight/insightface/issues/791 </br>
+
+### If I can help you, please give me a star :star2: :star2: :star2:
