@@ -103,7 +103,8 @@ for i in range(3000):
 - If you have your custom dataset in the required format
 - The above task can be accomplished by following the given links:
 >
-:bulb: Insight Face face2rec.py:  https://github.com/eeric/insightface/blob/master/src/data/face2rec2.py </br>
+:bulb: Insight Face face2rec.py:  https://github.com/eeric/insightface/blob/master/src/data/face2rec2.py </br> error
+https://github.com/apache/incubator-mxnet/blob/master/tools/im2rec.py </br> recon
 > 
 :bulb: img2rec: https://gluon-cv.mxnet.io/build/examples_datasets/recordio.html#sphx-glr-download-build-examples-datasets-recordio-py </br>
 > 
