@@ -105,8 +105,10 @@ for i in range(3000):
 >
 :bulb: Insight Face face2rec.py:  https://github.com/eeric/insightface/blob/master/src/data/face2rec2.py [error] </br> 
 :bulb: https://github.com/apache/incubator-mxnet/blob/master/tools/im2rec.py [recommend] </br> 
-> 
-:bulb: img2rec: https://gluon-cv.mxnet.io/build/examples_datasets/recordio.html#sphx-glr-download-build-examples-datasets-recordio-py </br>
+>
+(1) python im2rec.py --list --resize 112 --recursive ./my_data IMG_DIR
+>
+(2) python3 img2rec.py ./my_lst lst_DIR ./my_data IMG_DIR
 > 
 :bulb:Useful https://github.com/deepinsight/insightface/issues/214#issuecomment-419812835
 >
