@@ -123,6 +123,9 @@ e.g.,
 e.g., 
 >
 93431,112,112
+### lfw.bin
+:bulb: lfw2pack: https://github.com/eeric/insightface/blob/master/src/data/lfw2pack.py </br>
+>
 ## Dataset Preprocessing:
 - All face images are aligned by [MTCNN](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html) and cropped to 112x112:
 - Any public available *MTCNN* can be used to align the faces, and the performance should not change. We will improve the face normalisation step by full pose alignment methods recently.
