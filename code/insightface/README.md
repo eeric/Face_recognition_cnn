@@ -220,6 +220,10 @@ In this part, we assume you are in the directory *`$INSIGHTFACE_ROOT/deploy/`*. 
 2. Put the model under *`$INSIGHTFACE_ROOT/models/`*. For example, *`$INSIGHTFACE_ROOT/models/model-r100-ii`*.
 3. Run the test script *`$INSIGHTFACE_ROOT/deploy/test.py`*
 
+### inference
+
+python3 insightface/recognition/arcface_torch/inference.py
+
 ### Pretrained Models
 
 You can use `$INSIGHTFACE/src/eval/verification.py` to test all the pre-trained models.
