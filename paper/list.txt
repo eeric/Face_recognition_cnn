@@ -1,4 +1,5 @@
 1.Arcface: Additive angular margin loss for deep face recognition
 2.Partial FC: Training 10 Million Identities on a Single Machine
 3.Masked Face Recognition for Secure Authentication - 2008.11104
+4.Efficient Masked Face Recognition Method during the COVID-19 Pandemic
 4.Unmasking Face Embeddings by Self-restrained Triplet Loss for Accurate Masked Face Recognition
