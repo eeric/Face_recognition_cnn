@@ -3,3 +3,4 @@
 3.Masked Face Recognition for Secure Authentication - 2008.11104
 4.Efficient Masked Face Recognition Method during the COVID-19 Pandemic
 5.Unmasking Face Embeddings by Self-restrained Triplet Loss for Accurate Masked Face Recognition
+6.Boosting Masked Face Recognition with Multi-Task ArcFace
