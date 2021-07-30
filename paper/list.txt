@@ -5,3 +5,4 @@
 5.Unmasking Face Embeddings by Self-restrained Triplet Loss for Accurate Masked Face Recognition
 6.Boosting Masked Face Recognition with Multi-Task ArcFace
 7.Indian Masked Faces in the Wild Dataset
+8.Masked Face Recognition using ResNet-50
