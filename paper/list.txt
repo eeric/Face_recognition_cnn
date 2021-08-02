@@ -6,3 +6,4 @@
 6.Boosting Masked Face Recognition with Multi-Task ArcFace
 7.Indian Masked Faces in the Wild Dataset
 8.Masked Face Recognition using ResNet-50
+9.MFR 2021: Masked Face Recognition Competition
