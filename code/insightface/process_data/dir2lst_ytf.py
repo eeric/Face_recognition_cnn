@@ -1,4 +1,5 @@
 # python3 dir2lst_ytf.py
+# train.lst format: 1 \t path \t idx_class
 
 import sys
 import os
