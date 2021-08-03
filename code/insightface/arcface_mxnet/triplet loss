@@ -1,5 +1,11 @@
 # fine tune using triplet loss
-1.script
+1.Configure the environment
+(1)sure cuda version
+e.g., cuda 9.0, cuda 10.2
+(2)corresponding to mxnet version
+e.g., mxnet-cu90, mxnet-cu102
+
+2.training script
 (1)single gpu
 CUDA_VISIBLE_DEVICES='0' python3 train.py --network y1 --loss triplet --lr 0.005 --dataset emore --pretrained ./model-y1-test2/model
 (2)mutil gpu
