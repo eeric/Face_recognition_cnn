@@ -1,3 +1,4 @@
+# fine tune using triplet loss
 1.script
 (1)single gpu
 CUDA_VISIBLE_DEVICES='0' python3 train.py --network y1 --loss triplet --lr 0.005 --dataset emore --pretrained ./model-y1-test2/model
