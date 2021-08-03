@@ -1,5 +1,6 @@
 # from https://blog.csdn.net/CLOUD_J/article/details/100672392
 # python3 generatelst.py --dataset-dir /path to your datasets --list-file /path to your .lst --img-ext '.jpg'
+# train.lst format: 1 \t path \t idx_class
 
 import os
 import random
