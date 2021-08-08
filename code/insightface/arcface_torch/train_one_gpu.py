@@ -1,7 +1,7 @@
+# -*- coding: utf-8 -*-
 import argparse
 import logging
 import os
-
 import torch
 import torch.distributed as dist
 import torch.nn.functional as F
