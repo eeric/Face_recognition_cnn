@@ -45,7 +45,7 @@ def main(args):
         train_set = MXFaceDataset(root_dir=cfg.rec)
 
     #train_sampler = torch.utils.data(train_set, shuffle=True) #.distributed.DistributedSampler(train_set, shuffle=True)
-    train_loader = torch.utils.data.DataLoader(#DataLoaderX(
+    train_loader = torch.utils.data.DataLoader(
          dataset=train_set, batch_size=cfg.batch_size,
          drop_last=True, shuffle=True)
     backbone = get_model(cfg.network, dropout=0.0, fp16=cfg.fp16, num_features=cfg.embedding_size).to(local_rank)
