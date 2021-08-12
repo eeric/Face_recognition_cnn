@@ -3,4 +3,4 @@
 #### 2.replace train.py with train_one_gpu.py
 #### 3.using current partial_fc.py
 ## Training
-### python3 train.py configs/ms1mv3_mbf
+#### python3 train.py configs/ms1mv3_mbf
