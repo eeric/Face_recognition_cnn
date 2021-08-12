@@ -4,6 +4,7 @@
 #https://github.com/deepinsight/insightface/issues/1417
 #no tensor normalize,see https://github.com/deepinsight/insightface/issues/1417#issuecomment-894589411
 #############################
+# -*- coding: utf-8 -*-
 import numpy as np
 import cv2
 import mxnet as mx
