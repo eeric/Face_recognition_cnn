@@ -42,7 +42,7 @@ def main(args):
     if cfg.rec == "synthetic":
         train_set = SyntheticDataset(local_rank=local_rank)
     else:
-        train_set = MXFaceDataset(root_dir=cfg.rec)
+        train_set = MXFaceDataset(root_dir=cfg.rec, local_rank=local_rank)
 
     #train_sampler = torch.utils.data(train_set, shuffle=True) #.distributed.DistributedSampler(train_set, shuffle=True)
     train_loader = torch.utils.data.DataLoader(
