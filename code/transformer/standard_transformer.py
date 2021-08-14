@@ -161,19 +161,19 @@ class Encoder(nn.Module):
 
 class VisionTransformer(nn.Module):
     """ Vision Transformer """
-    def __init__(self, fp16, 
-                 image_size=(7,7), #(256, 256),
-                 patch_size=(1, 1), #(16,16),
-                 emb_dim=512, #768
-                 mlp_dim=2048, #3072
-                 num_heads=4, #12
+    def __init__(self, 
+                 image_size=(256, 256),
+                 patch_size=(16,16),
+                 emb_dim=768
+                 mlp_dim=3072
+                 num_heads=12,
                  num_layers=12,
                  num_classes=1000,
                  attn_dropout_rate=0.0,
                  dropout_rate=0.1,
                  feat_dim=None):
         super(VisionTransformer, self).__init__()
-        h, w = 7,7 #image_size
+        h, w = image_size
         self.fp16 = fp16 #config.fp16
         # embedding layer
         fh, fw = patch_size
@@ -215,9 +215,6 @@ class VisionTransformer(nn.Module):
         # classifier
         #logits = self.classifier(feat[:, 0])
         return feat[:, 0] #logits
-
-def get_mbf(fp16, num_features):
-    return VisionTransformer(fp16, num_features, num_layers=2)
 
 if __name__ == '__main__':
     model = VisionTransformer(num_layers=2)
