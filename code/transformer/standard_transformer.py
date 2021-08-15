@@ -167,7 +167,7 @@ class VisionTransformer(nn.Module):
                  patch_size=(16,16),
                  emb_dim=768
                  mlp_dim=3072
-                 num_heads=12,
+                 num_heads=8,
                  num_layers=12,
                  num_classes=1000,
                  attn_dropout_rate=0.0,
@@ -218,8 +218,8 @@ class VisionTransformer(nn.Module):
         return feat[:, 0] #logits
 
 if __name__ == '__main__':
-    model = VisionTransformer(num_layers=2)
-    x = torch.randn((2, 3, 112, 112))
+    model = VisionTransformer(num_layers=4)
+    x = torch.randn((2, 3, 256, 256))
     out = model(x)
 
     state_dict = model.state_dict()
