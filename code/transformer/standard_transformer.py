@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#only one gpu, not distribute
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
