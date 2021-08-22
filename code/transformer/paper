@@ -3,5 +3,5 @@
 3.Aggregating Nested Transformers-2105.12723
 4.(DPT)Deformable Patch-based Transformer for Visual Recognition-2107.14467
 5.(Conformer)Local Features Coupling Global Representations for Visual Recognition-2105.03889
-6.Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions
+6.(PVT)Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions
 7.(Mobile-Former)Bridging MobileNet and Transformer-2108.05895
