@@ -8,3 +8,4 @@
 8.Masked Face Recognition using ResNet-50
 9.MFR 2021: Masked Face Recognition Competition
 10.Sub-center ArcFace_ Boosting Face Recognition by Large-scale Noisy Web Faces-eccv2020
+11.(SphereFace2)Binary Classification is All You Need for Deep Face Recognition-2108.01513
