@@ -11,4 +11,5 @@
 11.(SphereFace2)Binary Classification is All You Need for Deep Face Recognition-2108.01513
 12.Real Masks and Fake Faces_ On the Masked Face Presentation Attack Detection
 13.MicroNet: Improving Image Recognition with Extremely Low FLOPs
+14.FReLU: Funnel Activation for Visual Recognition
 
