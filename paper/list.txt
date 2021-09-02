@@ -12,4 +12,4 @@
 12.Real Masks and Fake Faces_ On the Masked Face Presentation Attack Detection
 13.MicroNet: Improving Image Recognition with Extremely Low FLOPs
 14.FReLU: Funnel Activation for Visual Recognition
-
+15.FaPN: Feature-aligned Pyramid Network for Dense Image Prediction
