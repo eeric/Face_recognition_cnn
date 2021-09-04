@@ -4,5 +4,5 @@ img2rec.py生成的lst文件，顺序是乱序，不能用于triplet loss训练�
 
 （2）python3 face2rec2.py ./lst_file/full_mask --num-thread 8    ##生成.rec和.idx
 
-face2rec2.py https://github.com/eeric/insightface/blob/master/src/data/face2rec2.py
+face2rec2.py:  https://github.com/eeric/insightface/blob/master/src/data/face2rec2.py
 
