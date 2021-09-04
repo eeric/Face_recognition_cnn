@@ -1,0 +1,2 @@
+1.(AlignSeg)Feature-Aligned Segmentation Networks-2003.00872
+2.(FaPN)Feature-aligned Pyramid Network for Dense Image Prediction2108.07058
