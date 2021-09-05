@@ -5,7 +5,7 @@ https://github.com/EMI-Group/FaPN
 2.paper
 (FaPN)Feature-aligned Pyramid Network for Dense Image Prediction2108.07058
 #code
-https://github.com/speedinghzl/AlignSeg
+https://github.com/speedinghzl/AlignSeg #(no dependency library)
 
 
 
