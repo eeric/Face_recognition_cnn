@@ -1,3 +1,5 @@
+#thanks to link:https://bbs.huaweicloud.com/blogs/180532
+#http://github.com/deepinsight/insightface
 # -*- coding: utf-8 -*-
 import cv2
 import torch
