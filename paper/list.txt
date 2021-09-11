@@ -15,3 +15,4 @@
 15.FaPN: Feature-aligned Pyramid Network for Dense Image Prediction
 16.(FROM)End2End Occluded Face Recognition by Masking Corrupted Features-2108.09468
 17.My Eyes Are Up Here- Promoting Focus on Uncovered Regions in Masked Face Recognition-2108.00996
+18.(AS-MLP)An Axial Shifted MLP Architecture for Vision-2107.08391
