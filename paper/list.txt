@@ -17,3 +17,7 @@
 17.My Eyes Are Up Here- Promoting Focus on Uncovered Regions in Masked Face Recognition-2108.00996
 18.(AS-MLP)An Axial Shifted MLP Architecture for Vision-2107.08391
 19.Masked Face Recognition Challenge-The WebFace260M Track Report-2108.07189
+20.Masked Face Recognition Challenge- The InsightFace Track Report-2108.08191
+
+
+
