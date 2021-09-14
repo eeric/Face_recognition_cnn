@@ -18,6 +18,6 @@
 18.(AS-MLP)An Axial Shifted MLP Architecture for Vision-2107.08391
 19.Masked Face Recognition Challenge-The WebFace260M Track Report-2108.07189
 20.Masked Face Recognition Challenge- The InsightFace Track Report-2108.08191
-
+21.Pyramid Vision Transformer
 
 
