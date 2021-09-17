@@ -1,0 +1,1 @@
+1.bake: Self-distillation with Batch Knowledge Ensembling Improves ImageNet Classification
