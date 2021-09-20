@@ -15,6 +15,7 @@ def img2tensor(image):
     img = torch.from_numpy(img).unsqueeze(0).float().cuda()
     img.div_(255).sub_(0.5).div_(0.5)
     return img
+
 # tensor to numpy
 def to_numpy(tensor):
     return tensor.detach().cpu().numpy() if tensor.requires_grad else tensor.cpu().numpy()
