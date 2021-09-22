@@ -3,6 +3,6 @@
 3.Knowledge distillation: A good teacher is patient and consistent - 2106.05237
 4.(LD loss)Localization Distillation for Object Detection
 5.(EfficientBERT)Progressively Searching Multilayer Perceptron via Warm-up Knowledge Distillation-2109.07222
-
+6.(FD)Resolution based Feature Distillation for Cross Resolution Person Re-Identification-2109.07871
 
 
