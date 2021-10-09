@@ -1,5 +1,6 @@
 1.https://github.com/DingXiaoH/ResRep                                # (ResRep)Lossless CNN Pruning via Decoupling Remembering and Forgetting-2007.03260
 2.https://github.com/DingXiaoH/Centripetal-SGD                       # (CVPR 2019) Channel pruning: Centripetal SGD for Pruning Very Deep Convolutional Networks with Complicated Structure
 3.https://github.com/DingXiaoH/AOFP                                  # (ICML 2019) Channel pruning: Approximated Oracle Filter Pruning for Destructive CNN Width Optimization
+4.https://github.com/DingXiaoH/GSM-SGD                               # (NeurIPS 2019) Unstructured pruning: Global Sparse Momentum SGD for Pruning Very Deep Neural Networks
 
 
