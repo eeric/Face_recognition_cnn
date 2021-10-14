@@ -19,5 +19,6 @@
 19.Masked Face Recognition Challenge-The WebFace260M Track Report-2108.07189
 20.Masked Face Recognition Challenge- The InsightFace Track Report-2108.08191
 21.Pyramid Vision Transformer
+22.(CrossFormer)A Versatile Vision Transformer Based on Cross-scale Attention-2108.00154
 
 
