@@ -22,5 +22,6 @@
 22.(CrossFormer)A Versatile Vision Transformer Based on Cross-scale Attention-2108.00154
 23.(ResRep)Lossless CNN Pruning via Decoupling Remembering and Forgetting-2007.03260
 24.(CrossViT)Cross-Attention Multi-Scale Vision Transformer for Image Classification-2103.14899
+25.Face Transformer for Recognition
 
 
