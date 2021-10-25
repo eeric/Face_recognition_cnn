@@ -24,5 +24,6 @@
 24.(CrossViT)Cross-Attention Multi-Scale Vision Transformer for Image Classification-2103.14899
 25.Face Transformer for Recognition
 26.(MobileViT)Light-weight, General-purpose, and Mobile-friendly Vision Transformer-2110.02178
+27.(convmixer)Patches Are All You Need
 
 
