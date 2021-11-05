@@ -25,5 +25,6 @@
 25.Face Transformer for Recognition
 26.(MobileViT)Light-weight, General-purpose, and Mobile-friendly Vision Transformer-2110.02178
 27.(convmixer)Patches Are All You Need
+28.(ElasticFace)Elastic Margin Loss for Deep Face Recognition-2109.09416
 
 
