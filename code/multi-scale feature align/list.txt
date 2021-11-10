@@ -6,6 +6,9 @@ https://github.com/EMI-Group/FaPN  # rely on detectron2
 (FaPN)Feature-aligned Pyramid Network for Dense Image Prediction2108.07058
 #code
 https://github.com/speedinghzl/AlignSeg  # no dependency library
-
+3.paper
+(AFF)Attentional_Feature_Fusion_WACV_2021_paper
+#code
+https://github.com/YimianDai/open-aff/tree/0bcfd8a1b010a66075db6232b1141b35f0f07532/aff_pytorch
 
 
