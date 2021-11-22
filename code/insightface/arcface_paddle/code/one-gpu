@@ -12,3 +12,5 @@ python tools/train.py \
     --fp16 False
 
 link: https://github.com/deepinsight/insightface/tree/master/recognition/arcface_paddle
+
+
