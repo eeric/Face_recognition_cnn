@@ -1,0 +1,12 @@
+export CUDA_VISIBLE_DEVICES=1
+python tools/train.py \
+    --config_file configs/ms1mv2_mobileface.py \
+    --embedding_size 128 \
+    --sample_ratio 1.0 \
+    --loss ArcFace \
+    --batch_size 512 \
+    --dataset MS1M_v2 \
+    --num_classes 85742 \
+    --data_dir MS1M_v2/ \
+    --label_file MS1M_v2/label.txt \
+    --fp16 False
