@@ -10,3 +10,5 @@ python tools/train.py \
     --data_dir MS1M_v2/ \
     --label_file MS1M_v2/label.txt \
     --fp16 False
+
+link: https://github.com/deepinsight/insightface/tree/master/recognition/arcface_paddle
