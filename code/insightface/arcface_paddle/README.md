@@ -36,7 +36,7 @@ Note: Many thanks to [GuoQuanhao](https://github.com/GuoQuanhao) for the reprodu
 
 ## 2. Environment Preparation
 
-Please refer to [Installation](./install_en.md) to setup environment at first.
+Please refer to [Installation](https://github.com/deepinsight/insightface/blob/master/recognition/arcface_paddle/install_en.md) to setup environment at first.
 
 <a name="Data_Preparation"></a>
 
