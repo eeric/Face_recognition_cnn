@@ -27,7 +27,7 @@
 `Arcface-Paddle` is an open source deep face detection and recognition toolkit, powered by PaddlePaddle. `Arcface-Paddle` provides three related pretrained models now, include `BlazeFace` for face detection, `ArcFace` and `MobileFace` for face recognition.
 
 - This tutorial is mainly about face recognition.
-- For face detection task, please refer to: [Face detection tuturial](../../detection/blazeface_paddle/README_en.md).
+- For face detection task, please refer to: [Face detection tuturial](https://github.com/deepinsight/insightface/blob/master/detection/blazeface_paddle/README_en.md).
 - For Whl package inference using PaddleInference, please refer to [whl package inference](https://github.com/littletomatodonkey/insight-face-paddle).
 
 Note: Many thanks to [GuoQuanhao](https://github.com/GuoQuanhao) for the reproduction of the [Arcface basline using PaddlePaddle](https://github.com/GuoQuanhao/arcface-Paddle).
