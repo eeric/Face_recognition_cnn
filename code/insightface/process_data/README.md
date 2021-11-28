@@ -6,3 +6,5 @@ img2rec.py生成的lst文件，顺序是乱序，不能用于triplet loss训练�
 
 face2rec2.py:   https://github.com/eeric/insightface/blob/master/src/data/face2rec2.py
 
+### image-->bin
+python lfw2pack.py --data-dir /path to/LFW --image-size 112,112 --output /path to/lfw.bin
