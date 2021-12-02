@@ -30,6 +30,8 @@
 30.(MAE)Masked Autoencoders Are Scalable Vision Learners-2111.06377
 31.(SMU)smooth activation function for deep networks using smoothing maximum technique-2111.04682
 32.(AFF)Attentional_Feature_Fusion_WACV_2021_paper
+33.(SENet)Squeeze-and-Excitation Networks-1709.01507
+
 
 
 
