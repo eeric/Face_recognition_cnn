@@ -6,6 +6,8 @@ https://github.com/liyunsheng13/micronet
 https://github.com/JDAI-CV/CoTNet
 # ElasticFace
 https://github.com/fdbtrs/ElasticFace
+# SENet
+https://github.com/moskomule/senet.pytorch/tree/master/senet
   
 
 
