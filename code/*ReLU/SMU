@@ -1,2 +1,4 @@
 #paper
 (SMU)smooth activation function for deep networks using smoothing maximum technique-2111.04682
+#code
+https://github.com/iFe1er/SMU_pytorch
