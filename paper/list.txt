@@ -31,7 +31,7 @@
 31.(SMU)smooth activation function for deep networks using smoothing maximum technique-2111.04682
 32.(AFF)Attentional_Feature_Fusion_WACV_2021_paper
 33.SENet: Squeeze-and-Excitation Networks-1709.01507
-34.(QMagFace)Simple and Accurate Quality-Aware Face Recognition-2111.13475
+34.QMagFace: Simple and Accurate Quality-Aware Face Recognition-2111.13475
 
 
 
