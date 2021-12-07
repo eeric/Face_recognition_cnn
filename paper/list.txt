@@ -27,7 +27,7 @@
 27.(convmixer)Patches Are All You Need
 28.(ElasticFace)Elastic Margin Loss for Deep Face Recognition-2109.09416
 29.(FocusFace)Multi-task Contrastive Learning for Masked Face Recognition-2110.14940
-30.(MAE)Masked Autoencoders Are Scalable Vision Learners-2111.06377
+30.MAE: Masked Autoencoders Are Scalable Vision Learners-2111.06377
 31.SMU: smooth activation function for deep networks using smoothing maximum technique-2111.04682
 32.AFF: Attentional_Feature_Fusion_WACV_2021_paper
 33.SENet: Squeeze-and-Excitation Networks-1709.01507
