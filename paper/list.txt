@@ -33,7 +33,7 @@
 33.SENet: Squeeze-and-Excitation Networks-1709.01507
 34.QMagFace: Simple and Accurate Quality-Aware Face Recognition-2111.13475
 35.GB-CosFace: Rethinking Softmax-based Face Recognition from the Perspective of Open Set Classification-2111.11186
-
+36.PAMPose: Attention Module for Pose-Invariant Face Recognition-2111.11940
 
 
 
