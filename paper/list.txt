@@ -15,12 +15,12 @@
 15.FaPN: Feature-aligned Pyramid Network for Dense Image Prediction
 16.(FROM)End2End Occluded Face Recognition by Masking Corrupted Features-2108.09468
 17.My Eyes Are Up Here- Promoting Focus on Uncovered Regions in Masked Face Recognition-2108.00996
-18.(AS-MLP)An Axial Shifted MLP Architecture for Vision-2107.08391
+18.(AS-MLPAn Axial Shifted MLP Architecture for Vision-2107.08391
 19.Masked Face Recognition Challenge-The WebFace260M Track Report-2108.07189
 20.Masked Face Recognition Challenge- The InsightFace Track Report-2108.08191
 21.Pyramid Vision Transformer
-22.(CrossFormer)A Versatile Vision Transformer Based on Cross-scale Attention-2108.00154
-23.(ResRep)Lossless CNN Pruning via Decoupling Remembering and Forgetting-2007.03260
+22.CrossFormer: A Versatile Vision Transformer Based on Cross-scale Attention-2108.00154
+23.ResRep: Lossless CNN Pruning via Decoupling Remembering and Forgetting-2007.03260
 24.CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification-2103.14899
 25.Face Transformer for Recognition
 26.MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer-2110.02178
