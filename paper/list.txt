@@ -35,7 +35,7 @@
 35.GB-CosFace: Rethinking Softmax-based Face Recognition from the Perspective of Open Set Classification-2111.11186
 36.PAMPose: Attention Module for Pose-Invariant Face Recognition-2111.11940
 37.Mask-invariant Face Recognition through Template-level Knowledge Distillation-2112.05646
-38.(NAM)Normalization-based Attention Module-2111.12419
+38.NAM: Normalization-based Attention Module-2111.12419
 
 
 
