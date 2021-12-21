@@ -3,5 +3,8 @@
 3.Knowledge distillation: A good teacher is patient and consistent - 2106.05237
 4.LD: Localization Distillation for Object Detection
 5.EfficientBERT: Progressively Searching Multilayer Perceptron via Warm-up Knowledge Distillation-2109.07222
+6.Mask-invariant Face Recognition through Template-level Knowledge Distillation-2112.05646
+
+
 
 
