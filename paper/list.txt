@@ -37,6 +37,7 @@
 37.Mask-invariant Face Recognition through Template-level Knowledge Distillation-2112.05646
 38.NAM: Normalization-based Attention Module-2111.12419
 39.Teacher-Student Training and Triplet Loss to Reduce the Effect of Drastic Face Occlusion-2111.10561
+40.A ConvNet for the 2020s-2201.03545
 
 
 
