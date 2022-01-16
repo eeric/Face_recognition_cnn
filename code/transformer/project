@@ -10,5 +10,6 @@
 10.https://github.com/svip-lab/AS-MLP                                 # AS-MLP: An Axial Shifted MLP Architecture for Vision-arXiv:2107.08391
 11.https://github.com/zhongyy/Face-Transformer                        # Face Transformer for Recognition
 12.https://github.com/pengzhiliang/MAE-pytorch                        # Masked Autoencoders Are Scalable Vision Learners-2111.06377
-
+13.https://github.com/huawei-noah/CV-Backbones/                       # Transformer in Transformer (TNT) and PyramidTNT
+tree/master/tnt_pytorch
 
