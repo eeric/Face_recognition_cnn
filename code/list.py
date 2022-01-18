@@ -14,6 +14,8 @@ https://github.com/YimianDai/open-aff/tree/0bcfd8a1b010a66075db6232b1141b35f0f07
 https://github.com/aliyun/GB-CosFace
 # DREAM
 https://github.com/penincillin/DREAM
+# ConvNeXt
+https://github.com/facebookresearch/ConvNeXt
   
   
   
