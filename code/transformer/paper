@@ -13,6 +13,7 @@
 13.(MAE)Masked Autoencoders Are Scalable Vision Learners-2111.06377
 14.(PyramidTNT)Improved Transformer-in-Transformer Baselines with Pyramid Architecture-2201.00978
 15.(ConvNeXt)A ConvNet for the 2020s-2201.03545
+16.Scaling Vision with Sparse Mixture of Experts  # https://arxiv.org/pdf/2106.05974.pdf
 
 
 
