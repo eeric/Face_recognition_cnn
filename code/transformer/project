@@ -15,7 +15,7 @@ tree/master/tnt_pytorch
 14.https://github.com/facebookresearch/ConvNeXt                       # A ConvNet for the 2020s-2201.03545
 15.https://github.com/google-research/vmoe                            # Scaling Vision with Sparse Mixture of Experts
 16.https://github.com/Sense-X/UniFormer                               # UniFormer: Unifying Convolution and Self-attention for Visual Recognition
-17.https://github.com/facebookresearch/omnivore               
+17.https://github.com/facebookresearch/omnivore                       # Omnivore: A Single Model for Many Visual Modalities
 
 
 
