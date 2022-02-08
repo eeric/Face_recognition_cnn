@@ -16,6 +16,6 @@ tree/master/tnt_pytorch
 15.https://github.com/google-research/vmoe                            # Scaling Vision with Sparse Mixture of Experts
 16.https://github.com/Sense-X/UniFormer                               # UniFormer: Unifying Convolution and Self-attention for Visual Recognition
 17.https://github.com/facebookresearch/omnivore                       # Omnivore: A Single Model for Many Visual Modalities
-18.https://github.com/xmu-xiaoma666/External-Attention-pytorch#5-CondConv-Usage  # (CondConv)Conditionally Parameterized Convolutions for Efficient Inference-1904.04971
+18.https://github.com/xmu-xiaoma666/External-Attention-pytorch#5-CondConv-Usage   # (CondConv)Conditionally Parameterized Convolutions for Efficient Inference-1904.04971
 
 
