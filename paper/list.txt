@@ -41,7 +41,7 @@
 41.Augmenting Convolutional networks with attention-based aggregation-2112.13692
 42.(PyramidTNT)Improved Transformer-in-Transformer Baselines with Pyramid Architecture-2201.00978
 43.(GiraffeDet)A Heavy-Neck Paradigm for Object Detection-2202.04256
-44.OMNI-DIMENSIONAL DYNAMIC CONVOLUTION-ICLR 2022
+44.OMNI-DIMENSIONAL DYNAMIC CONVOLUTION   (ICLR 2022)
 
 
 
