@@ -42,6 +42,7 @@
 42.(PyramidTNT)Improved Transformer-in-Transformer Baselines with Pyramid Architecture-2201.00978
 43.(GiraffeDet)A Heavy-Neck Paradigm for Object Detection-2202.04256
 44.OMNI-DIMENSIONAL DYNAMIC CONVOLUTION   (ICLR 2022)
+45.(CycleMLP)A MLP-like Architecture for Dense Prediction-2107.10224
 
 
 
