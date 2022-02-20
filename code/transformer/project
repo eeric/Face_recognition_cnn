@@ -18,7 +18,7 @@ tree/master/tnt_pytorch
 17.https://github.com/facebookresearch/omnivore                       # Omnivore: A Single Model for Many Visual Modalities
 18.https://github.com/xmu-xiaoma666/External-Attention-pytorch#5-CondConv-Usage   # (CondConv)Conditionally Parameterized Convolutions for Efficient Inference-1904.04971
 19.https://github.com/krushi1992/MOA-transformer   # (MoA-Transformer)Aggregating Global Features into Local Vision Transformer-2201.12903
-20.https://github.com/ShoufaChen/CycleMLP          # 
+20.https://github.com/ShoufaChen/CycleMLP          # (CycleMLP)A MLP-like Architecture for Dense Prediction-2107.10224
 
 
 
