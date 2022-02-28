@@ -17,7 +17,7 @@ https://github.com/penincillin/DREAM
 # ConvNeXt
 https://github.com/facebookresearch/ConvNeXt
 # FFR-Net
-
+https://github.com/haoosz/FFR-Net
   
   
   
