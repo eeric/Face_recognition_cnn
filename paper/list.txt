@@ -46,6 +46,9 @@
 46.A Unified Framework for Masked and Mask-Free Face Recognition via Feature Rectification-2202.07358
 47.Biometrics in the Time of Pandemic_ 40% Masked Face Recognition Degradation can be Reduced to 2%-2201.00461
 48.(ConvNext)A ConvNet for the 2020s-2201.03545
+49.(face_de_mask)Non-Deterministic Face Mask Removal Based On 3D Priors-2202.09856
+
+
 
 
 
