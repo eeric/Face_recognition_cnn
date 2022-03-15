@@ -49,6 +49,7 @@
 49.(face_de_mask)Non-Deterministic Face Mask Removal Based On 3D Priors-2202.09856
 50.(DeepFace-EMD)Re-ranking Using Patch-wise Earth Mover’s Distance Improves Out-Of-Distribution Face Identification-2112.04016
 51.Masked Faces with Faced Masks-2201.06427
+52.HairCLIP: Design Your Hair by Text and Reference Image
 
 
 
