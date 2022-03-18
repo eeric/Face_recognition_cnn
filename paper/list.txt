@@ -51,7 +51,7 @@
 51.Masked Faces with Faced Masks-2201.06427
 52.HairCLIP_ Design Your Hair by Text and Reference Image-2112.05142
 53.A U-Net Based Discriminator for Generative Adversarial Networks-CVPR_2020_paper
-54.MaskGAN_ Towards Diverse and Interactive Facial Image Manipulation
+54.MaskGAN_ Towards Diverse and Interactive Facial Image Manipulation-1907.11922
 
 
 
