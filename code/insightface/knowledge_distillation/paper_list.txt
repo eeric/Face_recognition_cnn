@@ -6,7 +6,7 @@
 6.Mask-invariant Face Recognition through Template-level Knowledge Distillation-2112.05646
 7.Teacher-Student Training and Triplet Loss to Reduce the Effect of Drastic Face Occlusion-2111.10561
 8.KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation
-9.Paying More Attention to Attention_ Improving the Performance of Convolutional Neural Networks via Attention Transfer-1612.03928
+9.AT: Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer-1612.03928
 10.RKD: Relational Knowledge Distillation-1904.05068
 
 
