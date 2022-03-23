@@ -6,6 +6,10 @@
 6.Mask-invariant Face Recognition through Template-level Knowledge Distillation-2112.05646
 7.Teacher-Student Training and Triplet Loss to Reduce the Effect of Drastic Face Occlusion-2111.10561
 8.KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation
+9.RKD: Relational Knowledge Distillation-1904.05068
+
+
+
 
 
 
