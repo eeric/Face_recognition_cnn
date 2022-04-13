@@ -8,6 +8,7 @@
 8.KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation
 9.AT: Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer-1612.03928
 10.RKD: Relational Knowledge Distillation-1904.05068
+11.Decoupled Knowledge Distillation-2203.08679
 
 
 
