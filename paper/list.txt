@@ -59,7 +59,7 @@
 59.(DKD)Decoupled Knowledge Distillation-2203.08679
 60.Data Uncertainty Learning in Face Recognition-2003.11339
 61.Improving Face Recognition from Hard Samples via Distribution Distillation Loss-2002.03662
-
+62.WebFace260M: A Benchmark for Million-Scale Deep Face Recognition
 
 
 
