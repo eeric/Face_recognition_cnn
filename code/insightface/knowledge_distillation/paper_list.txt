@@ -11,6 +11,7 @@
 11.Decoupled Knowledge Distillation-2203.08679
 12.SimKD: Knowledge Distillation with the Reused Teacher Classifier-2203.14001v1
 13.Contrastive Representation Distillation-1910.10699
+14.(CoupleFace)Relation Matters for Face Recognition Distillation
 
 
 
