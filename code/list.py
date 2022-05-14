@@ -20,6 +20,8 @@ https://github.com/facebookresearch/ConvNeXt
 https://github.com/haoosz/FFR-Net
 # PRNet
 https://github.com/YadiraF/PRNet
+# Adaface
+
   
   
   
