@@ -21,7 +21,7 @@ https://github.com/haoosz/FFR-Net
 # PRNet
 https://github.com/YadiraF/PRNet
 # Adaface
-
+https://github.com/mk-minchul/AdaFace
   
   
   
