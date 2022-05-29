@@ -64,6 +64,7 @@
 64.Towards Mask-robust Face Recognition
 65.(CurricularFace)Adaptive Curriculum Learning Loss for Deep Face Recognition-2004.00288
 66.Towards_Mask-robust_Face_Recognition
+67.Balanced Masked and Standard Face Recognition
 
 
 
