@@ -23,7 +23,7 @@ https://github.com/YadiraF/PRNet
 # Adaface
 https://github.com/mk-minchul/AdaFace
 # CurricularFace
-
+https://github.com/HuangYG123/CurricularFace
   
   
   
