@@ -22,6 +22,8 @@ https://github.com/haoosz/FFR-Net
 https://github.com/YadiraF/PRNet
 # Adaface
 https://github.com/mk-minchul/AdaFace
+# CurricularFace
+
   
   
   
