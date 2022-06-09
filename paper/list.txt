@@ -67,7 +67,7 @@
 67.Balanced Masked and Standard Face Recognition-2110.01521
 68.(cutout)Improved Regularization of Convolutional Neural Networks with Cutout-1708.04552
 69.Knowledge Distillation via the Target-aware Transformer-2205.10793
-70.(AdaptFormer)Adapting Vision Transformers for Scalable Visual Recognition
+70.Adapting Vision Transformers for Scalable Visual Recognition-2205.13535
 
 
 
