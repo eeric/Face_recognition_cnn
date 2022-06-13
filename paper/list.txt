@@ -69,7 +69,7 @@
 69.Knowledge Distillation via the Target-aware Transformer-2205.10793
 70.AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition-2205.13535
 71.Inception Transformer-2205.12956v2
-72.Learning Deep Representations with Probabilistic Knowledge Transfer
+72.Learning Deep Representations with Probabilistic Knowledge Transfer-1803.10837
 
 
 
