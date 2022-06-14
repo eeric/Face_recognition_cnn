@@ -70,6 +70,7 @@
 70.AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition-2205.13535
 71.Inception Transformer-2205.12956v2
 72.Learning Deep Representations with Probabilistic Knowledge Transfer-1803.10837
+73.(NST)Like What You Like-Knowledge Distill via Neuron Selectivity Transfer
 
 
 
