@@ -4,7 +4,7 @@ https://github.com/mk-minchul/AdaFace
 https://github.com/HuangYG123/CurricularFace
 3.label smooth
 https://github.com/CoinCheung/pytorch-loss/blob/master/pytorch_loss/label_smooth.py
-4.
+4.Geometry
 https://github.com/ltkong218/IFRNet/blob/main/loss.py
 
 
