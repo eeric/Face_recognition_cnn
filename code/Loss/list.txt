@@ -6,5 +6,7 @@ https://github.com/HuangYG123/CurricularFace
 https://github.com/CoinCheung/pytorch-loss/blob/master/pytorch_loss/label_smooth.py
 4.Geometry
 https://github.com/ltkong218/IFRNet/blob/main/loss.py
+5.
+https://github.com/fdbtrs/ElasticFace
 
 
