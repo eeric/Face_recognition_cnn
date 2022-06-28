@@ -10,7 +10,7 @@ https://github.com/ltkong218/IFRNet/blob/main/loss.py
 https://github.com/fdbtrs/ElasticFace
 6.pytorch-loss
 https://github.com/CoinCheung/pytorch-loss
-7.
+7.DKD
 https://github.com/megvii-research/mdistiller/tree/master/mdistiller/distillers
 
 
