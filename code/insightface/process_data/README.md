@@ -8,3 +8,19 @@ face2rec2.py:   https://github.com/eeric/insightface/blob/master/src/data/face2r
 
 ### image-->bin
 python lfw2pack.py --data-dir /path to/LFW --image-size 112,112 --output /path to/lfw.bin
+
+使用DALI模式，需要特殊.rec格式
+
+（1）生成.lst
+
+格式：python im2rec.py --list /path to train(默认.lst) --recursive /path to image
+
+如：python im2rec.py --list /mnt/data/dataset/train --recursive /mnt/data/face
+
+（2）生成.rec和.idx
+
+格式：python im2rec.py /path to train.lst --num-thread 16 --quality 100 /path to image
+
+python im2rec.py /mnt/data/dataset/train.lst --num-thread 16 --quality 100 /mnt/data/face
+
+*图片数量，4247,4557，另外有一张图像打rec的时候打不进去，检查发现那张图片可能只有jpeg头，不要使用pass_through模式，通常--pass-through 默认为false，pass-through意思是不对图片进行解码，直接向rec写入文件
