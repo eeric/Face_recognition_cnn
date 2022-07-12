@@ -23,7 +23,7 @@ python lfw2pack.py --data-dir /path to/LFW --image-size 112,112 --output /path t
 
 python im2rec.py /mnt/data/dataset/train.lst --num-thread 16 --quality 100 /mnt/data/face
 
-**im2rec.py: https://github.com/apache/incubator-mxnet/blob/master/tools/im2rec.py
+im2rec.py: https://github.com/apache/incubator-mxnet/blob/master/tools/im2rec.py
 
 *图片数量，4247,4557，另外有一张图像转rec格式的时候不成功，检查发现那张图片有可能只有jpeg头，这样当不使用pass_through模式（通常pass-through 默认为false，pass-through意思是不对图片进行解码）时，这张问题图像就不会直接转rec文件。
 
