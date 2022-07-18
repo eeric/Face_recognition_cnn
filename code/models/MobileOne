@@ -1,6 +1,6 @@
 # paper
 https://arxiv.org/abs/2206.04040
 # code
-https://github.com/shoutOutYangJie/MobileOne （性能接近，非官方）
-
+1.https://github.com/shoutOutYangJie/MobileOne （性能接近，非官方）
+2.https://github.com/facebookresearch/mobile-vision/tree/4d5207cf50cdcf260e240871abf04686ab7087ed/mobile_cv/arch/fbnet_v2 （Facebook 工程师的实现，非官方）
 
