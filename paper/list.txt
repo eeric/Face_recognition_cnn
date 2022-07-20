@@ -76,6 +76,7 @@
 76.GhostNets on Heterogeneous Devices via Cheap Operations-2201.03297
 77.More ConvNets in the 2020s-Scaling up Kernels Beyond 51 × 51 using Sparsity-2207.03620
 78.Knowledge Condensation Distillation-2207.05409
+79.Masked Autoencoders are Robust Data Augmentors
 
 
 
