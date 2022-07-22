@@ -77,7 +77,7 @@
 77.More ConvNets in the 2020s-Scaling up Kernels Beyond 51 × 51 using Sparsity-2207.03620
 78.Knowledge Condensation Distillation-2207.05409
 79.Masked Autoencoders are Robust Data Augmentors-2206.04846
-80.
+80.(Geometric Synthesi)A Free lunch for Large-scale Palmprint Recognition Model Pretraining
 
 
 
