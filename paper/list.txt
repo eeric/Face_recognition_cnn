@@ -78,7 +78,7 @@
 78.Knowledge Condensation Distillation-2207.05409
 79.Masked Autoencoders are Robust Data Augmentors-2206.04846
 80.(Geometric Synthesi)A Free lunch for Large-scale Palmprint Recognition Model Pretraining-2203.05703v1
-81.(DisCo)Remedy Self-supervised Learning on Lightweight Models with Distilled
+81.Remedy Self-supervised Learning on Lightweight Models with Distilled-2104.09124
 
 
 
