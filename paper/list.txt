@@ -80,6 +80,7 @@
 80.(Geometric Synthesi)A Free lunch for Large-scale Palmprint Recognition Model Pretraining-2203.05703v1
 81.(DisCo)Remedy Self-supervised Learning on Lightweight Models with Distilled-2104.09124
 82.Twin identification over viewpoint change A deep convolutional neural network surpasses humans
+83.facial representation learning
 
 
 
