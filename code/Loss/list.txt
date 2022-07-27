@@ -17,3 +17,4 @@ Towards Mask-robust Face Recognition
 9.Balanced MSE
 https://github.com/jiawei-ren/BalancedMSE
 10.MGD
+https://github.com/yzd-v/MGD/blob/master/cls/mmcls/distillation/losses/mgd.py
