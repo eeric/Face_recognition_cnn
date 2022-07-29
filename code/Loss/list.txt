@@ -20,3 +20,4 @@ https://github.com/jiawei-ren/BalancedMSE
 https://github.com/yzd-v/MGD/blob/master/cls/mmcls/distillation/losses/mgd.py
 11.MGD
 Matching Guided Distillation
+https://github.com/KaiyuYue/mgd
