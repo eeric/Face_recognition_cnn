@@ -13,7 +13,7 @@
 13.Contrastive Representation Distillation-1910.10699
 14.(CoupleFace)Relation Matters for Face Recognition Distillation-2204.05502
 15.Masked Generative Distillation-2205.01529
-16.Matching Guided Distillation
+16.Matching Guided Distillation-2008.09958
 
 
 
