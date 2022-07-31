@@ -1,3 +1,4 @@
 # paper
 Masked Generative Distillation-2205.01529
 # code
+https://github.com/yzd-v/MGD/blob/master/cls/mmcls/distillation/losses/mgd.py
