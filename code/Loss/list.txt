@@ -26,5 +26,5 @@ https://github.com/KaiyuYue/mgd
 https://github.com/google-research/augmix
 13.DisCo
 https://github.com/Yuting-Gao/DisCo-
-14.
+14.Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation-2205.14141
 https://github.com/SwinTransformer/Feature-Distillation
