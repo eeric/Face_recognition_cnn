@@ -25,4 +25,6 @@ https://github.com/KaiyuYue/mgd
 12.augmix
 https://github.com/google-research/augmix
 13.DisCo
-https://github.com/Yuting-Gao/DisCo-pytorch
+https://github.com/Yuting-Gao/DisCo-
+14.
+https://github.com/SwinTransformer/Feature-Distillation
