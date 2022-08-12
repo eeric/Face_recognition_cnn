@@ -84,7 +84,7 @@
 84.Semi-Siamese Training for Shallow Face Learning-2007.08398
 85.(Face2Faceρ)Real-Time High-Resolution One-Shot Face Reenactment
 86.(AutoMix)Unveiling the Power of Mixup for Stronger Classifiers-2103.13027
-87.(SdAE)Self-distillated Masked Autoencoder-2208.00449
+87.Self-distillated Masked Autoencoder
 
 
 
