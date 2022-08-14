@@ -16,7 +16,8 @@
 16.Matching Guided Distillation-2008.09958
 17.Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation-2205.14141
 18.(Face2Faceρ)Real-Time High-Resolution One-Shot Face Reenactment
-
+19.
+https://github.com/SwinTransformer/Feature-Distillation
 
 
 
