@@ -89,6 +89,9 @@
 89.(MaxViT)Multi-Axis Vision Transformer-2204.01697
 90.(ScalableViT)Rethinking the Context-oriented Generalization of Vision Transformer-2203.10790
 91.A Fast Knowledge Distillation Framework for Visual Recognition-2112.01528
+92.
+
+
 
 
 
