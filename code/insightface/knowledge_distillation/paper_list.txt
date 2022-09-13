@@ -19,7 +19,7 @@
 19.Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation
 20.A Fast Knowledge Distillation Framework for Visual Recognition-2112.01528
 21.Factorizing Knowledge in Neural Networks-2207.03337
-22.
+22.(VID)Variational Information Distillation for Knowledge Transfer1904.05835
 
 
 
