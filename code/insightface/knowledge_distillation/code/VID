@@ -1,4 +1,6 @@
 #paper
 (VID)Variational Information Distillation for Knowledge Transfer1904.05835
 #code
+https://github.com/dzy3/KCD/blob/main/distiller_zoo/VID.py
+
 
