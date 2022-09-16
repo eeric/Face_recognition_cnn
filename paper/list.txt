@@ -95,6 +95,7 @@
 95.(VID)Variational Information Distillation for Knowledge Transfer1904.05835
 96.Semantically Self-Aligned Network for Text-to-Image Part-aware Person Re-identification-2107.12666
 97.(GSConv)A better design paradigm of detector-2206.02424
+98.
 
 
 
