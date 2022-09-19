@@ -36,7 +36,7 @@ https://github.com/SwinTransformer/Feature-Distillation
 https://github.com/facebookresearch/mae
 18.VID
 https://github.com/dzy3/KCD/blob/main/distiller_zoo/VID.py
-19
+19.MI
 
 
 
