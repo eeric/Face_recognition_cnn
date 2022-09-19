@@ -39,6 +39,8 @@ https://github.com/dzy3/KCD/blob/main/distiller_zoo/VID.py
 19.MI
 # paper
 Factorizing Knowledge in Neural Networks
+# code
+
 
 
 
