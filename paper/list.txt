@@ -96,7 +96,7 @@
 96.Semantically Self-Aligned Network for Text-to-Image Part-aware Person Re-identification-2107.12666
 97.(GSConv)A better design paradigm of detector-2206.02424
 98.(laff)Lightweight Attentional Feature Fusion-A New Baseline for Text-to-Video Retrieval-2112.01832
-99.
+99.(SubFace)Learning with Softmax Approximation for Face Recognition-2208.11483
 
 
 
