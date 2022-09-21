@@ -35,6 +35,8 @@ https://github.com/SwinTransformer/Feature-Distillation
 17.MAE
 https://github.com/facebookresearch/mae
 18.VID
+paper
+(VID)Variational Information Distillation for Knowledge Transfer1904.05835
 https://github.com/dzy3/KCD/blob/main/distiller_zoo/VID.py
 19.MI
 # paper
