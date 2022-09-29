@@ -98,7 +98,7 @@
 98.(laff)Lightweight Attentional Feature Fusion-A New Baseline for Text-to-Video Retrieval-2112.01832
 99.(SubFace)Learning with Softmax Approximation for Face Recognition-2208.11483
 100.(ACmix)On the Integration of Self-Attention and Convolution-2111.14556
-101.
+101.(DeepBD)Joint Distribution Matters-Deep Brownian Distance Covariance for Few-Shot Classification-2204.04567
 
 
 
