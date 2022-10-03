@@ -45,6 +45,8 @@ Factorizing Knowledge in Neural Networks
 https://github.com/Adamdad/KnowledgeFactor/blob/main/cls/mmcls/models/losses/kd_loss.py
 20.CCPL
 # paper
+(CCPL)Contrastive Coherence Preserving Loss for Versatile Style Transfer-2207.04808
+# code
 
 
 
