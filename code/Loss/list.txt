@@ -44,6 +44,7 @@ Factorizing Knowledge in Neural Networks
 # code
 https://github.com/Adamdad/KnowledgeFactor/blob/main/cls/mmcls/models/losses/kd_loss.py
 20.CCPL
+# paper
 
 
 
