@@ -25,8 +25,8 @@ tree/master/tnt_pytorch
 24.https://github.com/facebookresearch/SlowFast    # Masked Feature Prediction for Self-Supervised Visual Pre-Training-2112.09133
 /tree/main/projects/maskfeat
 25.https://github.com/ziplab/LITv2                 # Fast Vision Transformers with HiLo Attention-2205.13213
-26.https://github.com/yuhuan-wu/P2T
-
+26.https://github.com/yuhuan-wu/P2T                # Pyramid Pooling Transformer for Scene Understanding
+ 
 
 
 
