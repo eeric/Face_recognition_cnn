@@ -28,7 +28,7 @@ tree/master/tnt_pytorch
 26.https://github.com/yuhuan-wu/P2T                # Pyramid Pooling Transformer for Scene Understanding
 27.https://github.com/sczhou/CodeFormer            # Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 28.https://github.com/Yangr116/ScalableViT         # ScalableViT: Rethinking the Context-oriented Generalization of Vision Transformer
-29.https://github.com/ShoufaChen/AdaptFormer
+29.https://github.com/ShoufaChen/AdaptFormer       # AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition
  
 
 
