@@ -104,7 +104,7 @@
 104.(GreenMIM)Green Hierarchical Vision Transformer for Masked Image Modeling-2205.13515
 105.(IAT)You Only Need 90K Parameters to Adapt Light: A Light Weight Transformer for Image Enhancement and Exposure Correction-2205.14871
 106.(AdaptivePose++)A Powerful Single-Stage Network-2210.04014
-107.Shunted Self-Attention via Multi-Scale Token Aggregation
+107.Shunted Self-Attention via Multi-Scale Token Aggregation-2111.15193
 
 
 
