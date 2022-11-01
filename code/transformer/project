@@ -29,7 +29,7 @@ tree/master/tnt_pytorch
 27.https://github.com/sczhou/CodeFormer            # Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 28.https://github.com/Yangr116/ScalableViT         # ScalableViT: Rethinking the Context-oriented Generalization of Vision Transformer
 29.https://github.com/ShoufaChen/AdaptFormer       # AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition-2205.13535
-30.https://github.com/icandle/MAN
+30.https://github.com/icandle/MAN                  # (MAN)Multi-scale Attention Network for Single Image Super-Resolution-2209.14145
 
 
 
