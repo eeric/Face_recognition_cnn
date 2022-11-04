@@ -107,7 +107,7 @@
 107.Shunted Self-Attention via Multi-Scale Token Aggregation-2111.15193
 108.(UniAD)A Unified Model for Multi-class Anomaly Detection-2206.03687
 109.(MAN)Multi-scale Attention Network for Single Image Super-Resolution-2209.14145
-110.
+110.(VapSR)Efficient Image Super-Resolution using Vast-Receptive-Field Attention
 
 
 
