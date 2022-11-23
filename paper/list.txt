@@ -116,7 +116,7 @@
 116.(InternImage)Exploring Large-Scale Vision Foundation Models with Deformable Convolutions-2211.05778
 117.(AGVM)Large-batch Optimization for Dense Visual Predictions-2210.11078
 118.(MogaNet)Efficient Multi-order Gated Aggregation Network-2211.03295
-119.Efficient Multi-order Gated Aggregation Network-2211.03295
+119.(MogaNet)Efficient Multi-order Gated Aggregation Network-2211.03295
 
 
 
