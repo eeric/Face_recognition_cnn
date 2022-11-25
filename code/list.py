@@ -26,7 +26,7 @@ https://github.com/mk-minchul/AdaFace
 https://github.com/HuangYG123/CurricularFace
 # FAN
 https://github.com/NVlabs/FAN
-# 
+# AGVM
   
   
   
