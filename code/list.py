@@ -27,6 +27,7 @@ https://github.com/HuangYG123/CurricularFace
 # FAN
 https://github.com/NVlabs/FAN
 # AGVM
+https://github.com/Sense-X/AGVM
   
   
   
