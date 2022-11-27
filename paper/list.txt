@@ -117,7 +117,7 @@
 117.(AGVM)Large-batch Optimization for Dense Visual Predictions-2210.11078
 118.(MogaNet)Efficient Multi-order Gated Aggregation Network-2211.03295
 119.(SDNet)Revisiting Sparse Convolutional Model for Visual Recognition-2210.12945
-120.
+120.(DiffusionDet)Diffusion Model for Object Detection
 
 
 
