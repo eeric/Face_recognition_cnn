@@ -121,7 +121,7 @@
 121.A Survey of Deep Face Restoration Denoise,Super-Resolution, Deblur, Artifact Removal-2211.02831
 122.(PRNet)Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network-1803.07835v1
 123.(Conv2Former)A Simple Transformer-Style ConvNet for Visual Recognition-2211.11943
-124.(VICRegL)Self-Supervised Learning of Local Visual Features
+124.Self-Supervised Learning of Local Visual Features-2210.01571
 
 
 
