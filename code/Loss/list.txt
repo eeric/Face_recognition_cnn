@@ -52,7 +52,7 @@ https://github.com/JarrentWu1031/CCPL/blob/main/net.py
 # paper
 
 # code
-
+https://github.com/facebookresearch/VICRegL/blob/main/main_vicregl.py
 
 
 
