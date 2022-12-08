@@ -50,7 +50,7 @@ https://github.com/Adamdad/KnowledgeFactor/blob/main/cls/mmcls/models/losses/kd_
 https://github.com/JarrentWu1031/CCPL/blob/main/net.py
 21.VICRegL
 # paper
-
+https://arxiv.org/abs/2210.01571
 # code
 https://github.com/facebookresearch/VICRegL/blob/main/main_vicregl.py
 
