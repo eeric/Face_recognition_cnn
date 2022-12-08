@@ -49,7 +49,7 @@ https://github.com/Adamdad/KnowledgeFactor/blob/main/cls/mmcls/models/losses/kd_
 # code
 https://github.com/JarrentWu1031/CCPL/blob/main/net.py
 21.
-
+# paper
 
 
 
