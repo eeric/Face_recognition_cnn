@@ -124,7 +124,7 @@
 124.(VICRegL)Self-Supervised Learning of Local Visual Features-2210.01571
 125.(MogFace)Towards a Deeper Appreciation on Face Detection-CVPR_2022
 126.(multi-crop)Unsupervised learning of visual features by contrasting cluster assignmentsr-NeurIPS-2020
-
+127.
 
 
 
