@@ -126,7 +126,7 @@
 126.(multi-crop)Unsupervised learning of visual features by contrasting cluster assignmentsr-NeurIPS-2020
 127.Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition-136630615
 128.(LAS-AT)Adversarial Training with Learnable Attack Strategy_CVPR_2022
-129.(OpenMixup)Open Mixup Toolbox and Benchmark for Visual Representation Learning
+129.(OpenMixup)Open Mixup Toolbox and Benchmark for Visual Representation Learning-2209.04851
 
 
 
