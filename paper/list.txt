@@ -128,7 +128,7 @@
 128.(LAS-AT)Adversarial Training with Learnable Attack Strategy_CVPR_2022
 129.(OpenMixup)Open Mixup Toolbox and Benchmark for Visual Representation Learning-2209.04851
 130.Masked Distillation with Receptive Tokens-2205.14589
-131.Blind Knowledge Distillation for Robust Image Classification
+131.Blind Knowledge Distillation for Robust Image Classification-2211.11355
 
 
 
