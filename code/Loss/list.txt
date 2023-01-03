@@ -54,8 +54,8 @@ https://arxiv.org/abs/2210.01571
 # code
 https://github.com/facebookresearch/VICRegL/blob/main/main_vicregl.py
 22.
-#
-
+# paper
+https://arxiv.org/abs/2211.11355
 # code
 https://github.com/TimoK93/blind_knowledge_distillation
 
