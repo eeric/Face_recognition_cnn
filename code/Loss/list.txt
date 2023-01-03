@@ -57,7 +57,7 @@ https://github.com/facebookresearch/VICRegL/blob/main/main_vicregl.py
 #
 
 # code
-
+https://github.com/TimoK93/blind_knowledge_distillation
 
 
 
