@@ -58,7 +58,7 @@ https://github.com/facebookresearch/VICRegL/blob/main/main_vicregl.py
 https://arxiv.org/abs/2211.11355
 # code
 https://github.com/TimoK93/blind_knowledge_distillation
-23.
+23.MasKD
 # paper
 https://arxiv.org/abs/2205.14589
 # code
