@@ -34,7 +34,7 @@ https://github.com/ltkong218/IFRNet/blob/main/loss.py
 https://github.com/SwinTransformer/Feature-Distillation
 17.MAE
 # paper
-
+https://arxiv.org/abs/2111.06377
 # code
 https://github.com/facebookresearch/mae
 18.VID
