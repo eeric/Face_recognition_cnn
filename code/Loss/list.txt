@@ -1,4 +1,6 @@
 1.Adaface
+# paper
+
 # code
 https://github.com/mk-minchul/AdaFace
 2.CurricularFace
