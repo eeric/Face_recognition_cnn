@@ -4,6 +4,8 @@ https://arxiv.org/abs/2204.00964
 # code
 https://github.com/mk-minchul/AdaFace
 2.CurricularFace
+# paper
+
 # code
 https://github.com/HuangYG123/CurricularFace
 3.label smooth
