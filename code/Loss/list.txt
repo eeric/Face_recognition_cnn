@@ -9,6 +9,7 @@ https://arxiv.org/abs/2004.00288
 # code
 https://github.com/HuangYG123/CurricularFace
 3.label smooth
+# code
 https://github.com/CoinCheung/pytorch-loss/blob/master/pytorch_loss/label_smooth.py
 4.Geometry
 https://github.com/ltkong218/IFRNet/blob/main/loss.py
