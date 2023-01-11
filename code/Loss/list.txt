@@ -10,7 +10,7 @@ https://arxiv.org/abs/2004.00288
 https://github.com/HuangYG123/CurricularFace
 3.label smooth
 # paper
-
+https://arxiv.org/pdf/1906.02629.pdf
 # code
 https://github.com/CoinCheung/pytorch-loss/blob/master/pytorch_loss/label_smooth.py
 4.Geometry
