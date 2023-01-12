@@ -16,6 +16,7 @@ https://github.com/CoinCheung/pytorch-loss/blob/master/pytorch_loss/label_smooth
 4.Geometry
 # paper
 IFRNet: Intermediate Feature Refine Network for Efficient Frame Interpolation
+https://arxiv.org/abs/2205.14620
 # code
 https://github.com/ltkong218/IFRNet/blob/main/loss.py
 5.ElasticCosFace
