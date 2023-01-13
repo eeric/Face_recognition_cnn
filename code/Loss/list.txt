@@ -22,6 +22,7 @@ https://github.com/ltkong218/IFRNet/blob/main/loss.py
 5.ElasticCosFace
 # code
 https://github.com/fdbtrs/ElasticFace
+# paper
 6.pytorch-loss
 https://github.com/CoinCheung/pytorch-loss
 7.DKD
