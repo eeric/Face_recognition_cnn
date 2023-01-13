@@ -21,7 +21,7 @@ https://arxiv.org/abs/2205.14620
 https://github.com/ltkong218/IFRNet/blob/main/loss.py
 5.ElasticCosFace
 # paper
-Elastic Margin Loss for Deep Face Recognition
+ElasticFace: Elastic Margin Loss for Deep Face Recognition
 https://arxiv.org/pdf/2109.09416.pdf
 # code
 https://github.com/fdbtrs/ElasticFace
