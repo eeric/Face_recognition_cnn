@@ -20,10 +20,10 @@ https://arxiv.org/abs/2205.14620
 # code
 https://github.com/ltkong218/IFRNet/blob/main/loss.py
 5.ElasticCosFace
-# code
-https://github.com/fdbtrs/ElasticFace
 # paper
 https://arxiv.org/pdf/2109.09416.pdf
+# code
+https://github.com/fdbtrs/ElasticFace
 6.pytorch-loss
 https://github.com/CoinCheung/pytorch-loss
 7.DKD
