@@ -27,6 +27,7 @@ https://arxiv.org/pdf/2109.09416.pdf
 https://github.com/fdbtrs/ElasticFace
 6.pytorch-loss
 # code
+# lots of loss
 https://github.com/CoinCheung/pytorch-loss
 7.DKD
 https://github.com/megvii-research/mdistiller/tree/master/mdistiller/distillers
