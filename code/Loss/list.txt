@@ -34,6 +34,7 @@ https://github.com/CoinCheung/pytorch-loss
 # lots of loss
 https://github.com/megvii-research/mdistiller/tree/master/mdistiller/distillers
 8.Balanced Curricular
+# paper
 Towards Mask-robust Face Recognition
 9.Balanced MSE
 https://github.com/jiawei-ren/BalancedMSE
