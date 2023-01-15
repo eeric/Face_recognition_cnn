@@ -37,7 +37,7 @@ https://github.com/megvii-research/mdistiller/tree/master/mdistiller/distillers
 # paper
 Towards Mask-robust Face Recognition
 # code
-
+https://github.com/HuangYG123/CurricularFace
 9.Balanced MSE
 https://github.com/jiawei-ren/BalancedMSE
 10.MGD
