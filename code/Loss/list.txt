@@ -42,6 +42,7 @@ https://arxiv.org/abs/2004.00288
 https://github.com/HuangYG123/CurricularFace
 9.Balanced MSE
 # paper
+https://arxiv.org/abs/2203.16427
 # code
 https://github.com/jiawei-ren/BalancedMSE
 10.MGD
