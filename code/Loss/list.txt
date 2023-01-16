@@ -40,6 +40,7 @@ https://arxiv.org/abs/2004.00288
 # code
 https://github.com/HuangYG123/CurricularFace
 9.Balanced MSE
+# code
 https://github.com/jiawei-ren/BalancedMSE
 10.MGD
 Masked Generative Distillation-2205.01529
