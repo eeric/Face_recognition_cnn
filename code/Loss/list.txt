@@ -35,6 +35,7 @@ https://github.com/CoinCheung/pytorch-loss
 https://github.com/megvii-research/mdistiller/tree/master/mdistiller/distillers
 8.Balanced Curricular
 # paper
+https://arxiv.org/abs/2203.16427
 CurricularFace: Adaptive Curriculum Learning Loss for Deep Face Recognition
 https://arxiv.org/abs/2004.00288
 # code
