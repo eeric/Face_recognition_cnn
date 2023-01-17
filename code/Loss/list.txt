@@ -49,7 +49,7 @@ https://github.com/jiawei-ren/BalancedMSE
 10.MGD
 # paper
 Masked Generative Distillation-2205.01529
-# 
+# code
 https://github.com/yzd-v/MGD/blob/master/cls/mmcls/distillation/losses/mgd.py
 11.MGD
 Matching Guided Distillation-2008.09958
