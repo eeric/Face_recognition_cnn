@@ -59,6 +59,7 @@ https://arxiv.org/abs/2008.09958
 https://github.com/KaiyuYue/mgd
 12.augmix
 # paper
+A Simple Data Processing Method to Improve Robustness and Uncertainty
 https://arxiv.org/pdf/1912.02781.pdf
 # code
 https://github.com/google-research/augmix
