@@ -65,7 +65,7 @@ https://arxiv.org/pdf/1912.02781.pdf
 https://github.com/google-research/augmix
 13.DisCo
 # paper
-DisCo: Remedy Self-supervised Learning on Lightweight Models with Distilled Contrastive Learning
+DisCo:Remedy Self-supervised Learning on Lightweight Models with Distilled Contrastive Learning
 https://arxiv.org/abs/2104.09124
 # code
 https://github.com/Yuting-Gao/DisCo-pytorch
