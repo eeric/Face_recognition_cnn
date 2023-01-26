@@ -64,6 +64,7 @@ https://arxiv.org/pdf/1912.02781.pdf
 # code
 https://github.com/google-research/augmix
 13.DisCo
+#
 # code
 https://github.com/Yuting-Gao/DisCo-pytorch
 14.Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation
