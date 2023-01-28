@@ -69,7 +69,7 @@ DisCo: Remedy Self-supervised Learning on Lightweight Models with Distilled Cont
 https://arxiv.org/abs/2104.09124
 # code
 https://github.com/Yuting-Gao/DisCo-pytorch
-14.
+14.Feature-Distillation
 # paper
 Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation
 # code
