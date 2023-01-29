@@ -75,6 +75,7 @@ Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Dis
 # code
 https://github.com/SwinTransformer/Feature-Distillation
 15.Geometry
+# paper
 # code
 https://github.com/ltkong218/IFRNet
 https://github.com/ltkong218/IFRNet/blob/main/loss.py
