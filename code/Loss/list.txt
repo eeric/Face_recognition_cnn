@@ -83,6 +83,7 @@ https://github.com/ltkong218/IFRNet
 https://github.com/ltkong218/IFRNet/blob/main/loss.py
 16.Feature-Distillation
 # paper
+Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation
 https://arxiv.org/pdf/2205.14141.pdf
 # code
 https://github.com/SwinTransformer/Feature-Distillation
