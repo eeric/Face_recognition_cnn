@@ -82,6 +82,7 @@ https://arxiv.org/abs/2205.14620
 https://github.com/ltkong218/IFRNet
 https://github.com/ltkong218/IFRNet/blob/main/loss.py
 16.Feature-Distillation
+# code
 https://github.com/SwinTransformer/Feature-Distillation
 17.MAE
 # paper
