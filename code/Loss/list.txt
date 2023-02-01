@@ -73,7 +73,6 @@ https://github.com/Yuting-Gao/DisCo-pytorch
 # paper
 Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation
 https://arxiv.org/abs/2205.14141
-https://arxiv.org/abs/2205.14141
 # code
 https://github.com/SwinTransformer/Feature-Distillation
 15.Geometry
@@ -91,6 +90,7 @@ https://arxiv.org/pdf/2205.14141.pdf
 https://github.com/SwinTransformer/Feature-Distillation
 17.MAE
 # paper
+Masked Autoencoders Are Scalable Vision Learners
 https://arxiv.org/abs/2111.06377
 # code
 https://github.com/facebookresearch/mae
