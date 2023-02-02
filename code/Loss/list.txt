@@ -101,7 +101,7 @@ https://github.com/facebookresearch/mae
 https://github.com/dzy3/KCD/blob/main/distiller_zoo/VID.py
 19.MI
 # paper
-Factorizing Knowledge in Neural Networks
+Factorizing Knowledge in Neural Networks(ECCV 2022)
 https://arxiv.org/abs/2207.03337
 # code
 https://github.com/Adamdad/KnowledgeFactor/blob/main/cls/mmcls/models/losses/kd_loss.py
