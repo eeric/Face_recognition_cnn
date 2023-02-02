@@ -107,7 +107,7 @@ https://arxiv.org/abs/2207.03337
 https://github.com/Adamdad/KnowledgeFactor/blob/main/cls/mmcls/models/losses/kd_loss.py
 20.CCPL
 # paper
-(CCPL)Contrastive Coherence Preserving Loss for Versatile Style Transfer-2207.04808
+(CCPL)Contrastive Coherence Preserving Loss for Versatile Style Transfer(ECCV 2022 Oral)-2207.04808
 # code
 https://github.com/JarrentWu1031/CCPL/blob/main/net.py
 21.VICRegL
