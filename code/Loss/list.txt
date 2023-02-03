@@ -113,11 +113,13 @@ https://link.springer.com/chapter/10.1007/978-3-031-19787-1_11
 https://github.com/JarrentWu1031/CCPL/blob/main/net.py
 21.VICRegL
 # paper
+
 https://arxiv.org/abs/2210.01571
 # code
 https://github.com/facebookresearch/VICRegL/blob/main/main_vicregl.py
 22.BKD
 # paper
+Blind Knowledge Distillation for Robust Image Classification
 https://arxiv.org/abs/2211.11355
 # code
 https://github.com/TimoK93/blind_knowledge_distillation
