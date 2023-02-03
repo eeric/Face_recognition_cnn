@@ -113,7 +113,7 @@ https://link.springer.com/chapter/10.1007/978-3-031-19787-1_11
 https://github.com/JarrentWu1031/CCPL/blob/main/net.py
 21.VICRegL
 # paper
-
+VICRegL: Self-Supervised Learning of Local Visual Features
 https://arxiv.org/abs/2210.01571
 # code
 https://github.com/facebookresearch/VICRegL/blob/main/main_vicregl.py
