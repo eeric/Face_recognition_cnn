@@ -1,5 +1,6 @@
 1.Adaface
 # paper
+AdaFace: Quality Adaptive Margin for Face Recognition
 https://arxiv.org/abs/2204.00964
 # code
 https://github.com/mk-minchul/AdaFace
