@@ -5,6 +5,7 @@ https://arxiv.org/abs/2204.00964
 https://github.com/mk-minchul/AdaFace
 2.CurricularFace
 # paper
+CurricularFace: Adaptive Curriculum Learning Loss for Deep Face Recognition
 https://arxiv.org/abs/2004.00288
 # code
 https://github.com/HuangYG123/CurricularFace
