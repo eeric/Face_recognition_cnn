@@ -129,7 +129,7 @@
 129.(OpenMixup)Open Mixup Toolbox and Benchmark for Visual Representation Learning-2209.04851
 130.Masked Distillation with Receptive Tokens-2205.14589
 131.Blind Knowledge Distillation for Robust Image Classification-2211.11355
-132.(ConvNeXt V2)Co-designing and Scaling ConvNets with Masked Autoencoders-2301.00808
+132.(ConvNeXt V2)Co-designing and Scaling ConvNets with Masked Autoencoders
 
 
 
