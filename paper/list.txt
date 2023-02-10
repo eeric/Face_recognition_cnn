@@ -130,7 +130,7 @@
 130.Masked Distillation with Receptive Tokens-2205.14589
 131.Blind Knowledge Distillation for Robust Image Classification-2211.11355
 132.(ConvNeXt V2)Co-designing and Scaling ConvNets with Masked Autoencoders-2301.00808
-133.Improving Vision Transformers by Paying Less Attention-2301.02240
+133.(Skip-Attention)Improving Vision Transformers by Paying Less Attention-2301.02240
 
 
 
