@@ -132,7 +132,7 @@
 132.(ConvNeXt V2)Co-designing and Scaling ConvNets with Masked Autoencoders-2301.00808
 133.(Skip-Attention)Improving Vision Transformers by Paying Less Attention-2301.02240
 134.(ABPN)Adaptive Blend Pyramid Network for Real-Time Local-CVPR_2022
-135.Rethinking Mobile Block for Efficient Neural Models
+135.Rethinking Mobile Block for Efficient Neural Models-2301.01146
 
 
 
