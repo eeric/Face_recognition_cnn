@@ -134,7 +134,7 @@
 134.(ABPN)Adaptive Blend Pyramid Network for Real-Time Local-CVPR_2022
 135.Rethinking Mobile Block for Efficient Neural Models-2301.01146
 136.When Does Label Smoothing Help-1906.02629
-137.
+137.(EfficientFormer)Rethinking Vision Transformers for MobileNet Size and Speed
 
 
 
