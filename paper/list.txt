@@ -135,7 +135,7 @@
 135.Rethinking Mobile Block for Efficient Neural Models-2301.01146
 136.When Does Label Smoothing Help-1906.02629
 137.(EfficientFormer)Rethinking Vision Transformers for MobileNet Size and Speed-2212.08059
-138.Model-Agnostic Hierarchical Attention for 3D Object Detection
+138.Hierarchical Attention for 3D Object Detection-2301.02650
 
 
 
