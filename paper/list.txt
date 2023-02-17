@@ -136,7 +136,7 @@
 136.When Does Label Smoothing Help-1906.02629
 137.(EfficientFormer)Rethinking Vision Transformers for MobileNet Size and Speed-2212.08059
 138.Model-Agnostic Hierarchical Attention for 3D Object Detection-2301.02650
-139.Dataset Distillation via Factorization
+139.(DD)Dataset Distillation via Factorization
 
 
 
