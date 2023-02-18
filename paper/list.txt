@@ -137,6 +137,6 @@
 137.(EfficientFormer)Rethinking Vision Transformers for MobileNet Size and Speed-2212.08059
 138.Model-Agnostic Hierarchical Attention for 3D Object Detection-2301.02650
 139.(DDF)Dataset Distillation via Factorization
-140.Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation-2205.14141
+140.(Feature Distillation)Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation-2205.14141
 
 
