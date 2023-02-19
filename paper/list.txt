@@ -138,6 +138,6 @@
 138.Model-Agnostic Hierarchical Attention for 3D Object Detection-2301.02650
 139.(DDF)Dataset Distillation via Factorization
 140.(Feature Distillation)Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation-2205.14141
-141.Variational Information Distillation for Knowledge Transfer-1904.05835
+141.(VID)Variational Information Distillation for Knowledge Transfer-1904.05835
 
 
