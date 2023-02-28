@@ -21,7 +21,7 @@
 21.Pyramid Vision Transformer
 22.CrossFormer: A Versatile Vision Transformer Based on Cross-scale Attention-2108.00154
 23.ResRep: Lossless CNN Pruning via Decoupling Remembering and Forgetting-2007.03260
-24.Cross-Attention Multi-Scale Vision Transformer for Image Classification-2103.14899
+24.CrossVit: Cross-Attention Multi-Scale Vision Transformer for Image Classification-2103.14899
 25.Face Transformer for Recognition
 26.MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer-2110.02178
 27.convmixer: Patches Are All You Need
