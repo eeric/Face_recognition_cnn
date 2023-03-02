@@ -39,7 +39,7 @@
 39.Teacher-Student Training and Triplet Loss to Reduce the Effect of Drastic Face Occlusion-2111.10561
 40.A ConvNet for the 2020s-2201.03545
 41.Augmenting Convolutional networks with attention-based aggregation-2112.13692
-42.(PyramidTNT)Improved Transformer-in-Transformer Baselines with Pyramid Architecture-2201.00978
+42.Improved Transformer-in-Transformer Baselines with Pyramid Architecture-2201.00978
 43.(GiraffeDet)A Heavy-Neck Paradigm for Object Detection-2202.04256
 44.OMNI-DIMENSIONAL DYNAMIC CONVOLUTION   (ICLR 2022)
 45.(CycleMLP)A MLP-like Architecture for Dense Prediction-2107.10224
