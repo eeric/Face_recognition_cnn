@@ -47,7 +47,7 @@
 47.Biometrics in the Time of Pandemic_ 40% Masked Face Recognition Degradation can be Reduced to 2%-2201.00461
 48.ConvNext: A ConvNet for the 2020s-2201.03545
 49.face_de_mask:Non-Deterministic Face Mask Removal Based On 3D Priors-2202.09856
-50.DeepFace-EMD:Re-ranking Using Patch-wise Earth Mover’s Distance Improves Out-Of-Distribution Face Identification-2112.04016
+50.DeepFace-EMD: Re-ranking Using Patch-wise Earth Mover’s Distance Improves Out-Of-Distribution Face Identification-2112.04016
 51.Masked Faces with Faced Masks-2201.06427
 52.HairCLIP_ Design Your Hair by Text and Reference Image-2112.05142
 53.A U-Net Based Discriminator for Generative Adversarial Networks-CVPR_2020_paper
