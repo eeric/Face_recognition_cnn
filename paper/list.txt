@@ -54,7 +54,7 @@
 54.MaskGAN_ Towards Diverse and Interactive Facial Image Manipulation-1907.11922
 55.2022-AI-Index-Report_Master
 56.Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs
-57.(Partial FC)Efficient and Robust Training of Face Recognition CNNs by Partial FC-2203.15565
+57.Efficient and Robust Training of Face Recognition CNNs by Partial FC-2203.15565
 58.Masked Face Recognition Challenge: The InsightFace Track Report_ICCVW_2021_paper
 59.(DKD)Decoupled Knowledge Distillation-2203.08679
 60.Data Uncertainty Learning in Face Recognition-2003.11339
