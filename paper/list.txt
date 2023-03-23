@@ -60,7 +60,7 @@
 60.Data Uncertainty Learning in Face Recognition-2003.11339
 61.Improving Face Recognition from Hard Samples via Distribution Distillation Loss-2002.03662
 62.WebFace260M: A Benchmark for Million-Scale Deep Face Recognition-2204.10149
-63.Quality Adaptive Margin for Face Recognition-2204.00964
+63.AdaFace:Quality Adaptive Margin for Face Recognition-2204.00964
 64.Towards Mask-robust Face Recognition
 65.(CurricularFace)Adaptive Curriculum Learning Loss for Deep Face Recognition-2004.00288
 66.(WebFace260M)A Benchmark for Million-Scale Deep Face Recognition-2204.10149
