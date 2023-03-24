@@ -62,7 +62,7 @@
 62.WebFace260M: A Benchmark for Million-Scale Deep Face Recognition-2204.10149
 63.AdaFace: Quality Adaptive Margin for Face Recognition-2204.00964
 64.Towards Mask-robust Face Recognition
-65.(CurricularFace)Adaptive Curriculum Learning Loss for Deep Face Recognition-2004.00288
+65.Adaptive Curriculum Learning Loss for Deep Face Recognition-2004.00288
 66.(WebFace260M)A Benchmark for Million-Scale Deep Face Recognition-2204.10149
 67.Balanced Masked and Standard Face Recognition-2110.01521
 68.(cutout)Improved Regularization of Convolutional Neural Networks with Cutout-1708.04552
