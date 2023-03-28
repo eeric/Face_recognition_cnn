@@ -70,7 +70,7 @@
 70.AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition-2205.13535
 71.Inception Transformer-2205.12956v2
 72.Learning Deep Representations with Probabilistic Knowledge Transfer-1803.10837
-73.(NST)Like What You Like-Knowledge Distill via Neuron Selectivity Transfer-1707.01219
+73.Like What You Like-Knowledge Distill via Neuron Selectivity Transfer-1707.01219
 74.(IFRNet)Intermediate Feature Refine Network for Efficient Frame Interpolation-2205.14620
 75.An Improved One millisecond Mobile Backbone-2206.04040
 76.GhostNets on Heterogeneous Devices via Cheap Operations-2201.03297
