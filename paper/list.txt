@@ -142,6 +142,6 @@
 142.(Large Kernel Matters)Improve Semantic Segmentation by Global Convolutional Network-1703.02719
 143.(GCNet)Non-local Networks Meet Squeeze-Excitation Networks and Beyond-1904.11492
 144.(3D UX-Net)A Large Kernel Volumetric ConvNet Modernizing Hierarchical Transformer for Medical Image Segmentation-2209.15076
-145.DepGraph: Towards Any Structural Pruning
+145.DepGraph: Towards Any Structural Pruning-https://arxiv.org/abs/2301.12900
 
 
