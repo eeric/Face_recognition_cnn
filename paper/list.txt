@@ -85,7 +85,7 @@
 85.Real-Time High-Resolution One-Shot Face Reenactment
 86.AutoMix: Unveiling the Power of Mixup for Stronger Classifiers-2103.13027
 87.Self-distillated Masked Autoencoder
-88.Efficient High-Order Spatial Interactions with Recursive Gated Convolutions-2207.14284
+88.HorNet:Efficient High-Order Spatial Interactions with Recursive Gated Convolutions-2207.14284
 89.(MaxViT)Multi-Axis Vision Transformer-2204.01697
 90.(ScalableViT)Rethinking the Context-oriented Generalization of Vision Transformer-2203.10790
 91.A Fast Knowledge Distillation Framework for Visual Recognition-2112.01528
