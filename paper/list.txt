@@ -90,7 +90,7 @@
 90.ScalableViT: Rethinking the Context-oriented Generalization of Vision Transformer-2203.10790
 91.A Fast Knowledge Distillation Framework for Visual Recognition-2112.01528
 92.codeformer: Towards Robust Blind Face Restoration with Codebook Lookup Transformer-2206.11253
-93.(CCPL)Contrastive Coherence Preserving Loss for Versatile Style Transfer-2207.04808
+93.Contrastive Coherence Preserving Loss for Versatile Style Transfer-2207.04808
 94.(P2T)Pyramid Pooling Transformer for Scene Understanding-2106.12011
 95.(VID)Variational Information Distillation for Knowledge Transfer1904.05835
 96.Semantically Self-Aligned Network for Text-to-Image Part-aware Person Re-identification-2107.12666
